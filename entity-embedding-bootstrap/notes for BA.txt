@@ -1,0 +1,3 @@
+ > No description pages found for: ['Q11210244', 'Q1541071', 'Q21034625', 'Q37006806', 'Q37231923', 'Q37559237', 'Q609884']  --> skipped
+ link data only for 259 entities
+ 
